@@ -49,7 +49,7 @@ module.exports = {
     return send.reply(`Nickname Change Complete!
 ─────────────────
 Success: ${success}
-Failed: ${failed}`);
+Success: ${success}`);
   }
 };
 
